@@ -291,6 +291,95 @@
                              ]
                   },
                   {
+        "category_id": "1502",
+        "category_name": "Cartoon Cars",
+        "category_thumbnail": "1502.png",
+        "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_5/master/draw_for_children/",
+        "file_extension": "png",
+        "is_video": "false",
+        "animes": [{
+          "anime_id": "1",
+          "anime_name": "Turquoise Car",
+          "anime_step": 13
+        }, {
+          "anime_id": "2",
+          "anime_name": "Orange Truck",
+          "anime_step": 13
+        }, {
+          "anime_id": "3",
+          "anime_name": "Sport Car",
+          "anime_step": 13
+        }, {
+          "anime_id": "4",
+          "anime_name": "Happy Car",
+          "anime_step": 11
+        }, {
+          "anime_id": "5",
+          "anime_name": "Grumpy Car",
+          "anime_step": 11
+        }, {
+          "anime_id": "6",
+          "anime_name": "Gloomy Car",
+          "anime_step": 12
+        }, {
+          "anime_id": "7",
+          "anime_name": "Yellow Car",
+          "anime_step": 12
+        }, {
+          "anime_id": "8",
+          "anime_name": "Business Car",
+          "anime_step": 11
+        }, {
+          "anime_id": "9",
+          "anime_name": "Bemused Car",
+          "anime_step": 13
+        }, {
+          "anime_id": "10",
+          "anime_name": "Blue Car",
+          "anime_step": 12
+        }, {
+          "anime_id": "11",
+          "anime_name": "Laughing Car",
+          "anime_step": 11
+        }, {
+          "anime_id": "12",
+          "anime_name": "Confused Red Car",
+          "anime_step": 13
+        }, {
+          "anime_id": "13",
+          "anime_name": "Angry Jeep",
+          "anime_step": 13
+        }, {
+          "anime_id": "14",
+          "anime_name": "Blue Jeep",
+          "anime_step": 14
+        }, {
+          "anime_id": "15",
+          "anime_name": "Cabriolet",
+          "anime_step": 13
+        }, {
+          "anime_id": "16",
+          "anime_name": "Sad Car",
+          "anime_step": 12
+        }, {
+          "anime_id": "17",
+          "anime_name": "Little Red Car",
+          "anime_step": 11
+        }, {
+          "anime_id": "18",
+          "anime_name": "Mustard Car",
+          "anime_step": 14
+        }, {
+          "anime_id": "19",
+          "anime_name": "Proud Blue Car",
+          "anime_step": 13
+        }, {
+          "anime_id": "20",
+          "anime_name": "Red Cabriolet",
+          "anime_step": 12
+        }]
+      },
+                  {
                   "category_id": "141",
                   "category_name": "Transformer",
                   "category_thumbnail": "141.png",
